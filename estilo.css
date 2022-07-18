@@ -1,0 +1,114 @@
+* {
+	
+	font-weight: 100;
+}
+#codigo {
+	color:  #11a8ff;
+}
+
+h1 {
+	color:  #20f053;
+	background-color: black;
+	display: inline-block;
+	padding: 3px 6px;
+	margin: 2px;
+	border-radius: 20%;
+	border:  2px groove grey;
+	box-shadow: 4px 8px 20px 10px #000;
+	text-shadow: 2px 2px 7px white;
+	position: relative;
+	bottom: 1515px;
+	left: 480px;
+	right: 0;
+/*	top: 0px;*/
+	z-index: 10;
+	opacity: .7;
+}
+	/* padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px; */
+}
+
+[massobrenosotros="xd"]{
+	color: #ff0000;
+}
+li a:hover {
+	color:  #d1ee00;
+}
+.titulos {
+	font-size:50px
+}
+.contact-form{
+	font-size: 20px;
+}
+.contact-form__h1{
+	font-size: 2em;
+	line-height: 50px;
+	font-family: 'Smooch', cursive;
+} 
+
+li {
+	padding: 100px;
+}
+
+#hola {
+	background-color: #ee82ee;
+	height: 10px;
+	width: 10px;
+	box-sizing: border-box;
+	color: black;
+
+}
+/*cajas */
+
+li a {
+	position: relative;
+	bottom: 800px;
+/*	left: 0px;*/
+	right: 90px;
+/*	top: 0px;*/
+}
+.parrafo1 {
+	
+	width: 700px;
+	border: 2px solid grey;
+}
+.parrafo1 img {
+	float: right;
+	width: 100px;
+	margin-right: 18px;
+}
+.texto {
+	padding: 20px;
+}
+
+.texto::first-letter {
+	color: red;
+	font-size: 2em;
+}
+}
+.texto {
+	padding: 20px;
+}
+
+.texto::first-line {
+	color: blue;
+	font-size: 2em;
+}
+form {
+	margin: 100px;
+	display: block;
+	background-color: #555;
+	padding: 100px;
+	width: 50%;
+}
+
+input {
+	padding: 6px;
+	width: 100%;
+}
+
+input::placeholder {
+	color: red;
+	font-size: 1.4em;
+}
